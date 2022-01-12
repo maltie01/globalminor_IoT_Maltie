@@ -1,1 +1,62 @@
-does this work?
+First day introduction Maltie
+My name is Maltie-Carmelita Parsoe. I am 20 years old. I do not have a lot of programming experience. You can even say I do not have any experience. I did something with C++ and Php 4 years ago and c# has been a couple years ago too. I have some experience SQL and R. 
+I have done nothing with micro controllers and single board computers.
+A maker is a person that uses their abilities to create, whether it be mechanical, electrical, musical, visual or anything else. I like that it means that it does not matter which subject it is about. Because I am not very technical  I hope I can contribute in a different way.
+There is a lot of things to know about IoT but main things that I keep in mind are sensors and that IoT is bigger than you think. More things are considered IoT than we think.
+I don’t really have big expectations. I just want to learn a lot about stuff I do not know yet and be able to contribute to the project in a way I am comfortable about. But maybe step out of my comfort zone sometimes.
+
+Reflection lesson day 1 Maltie
+First half of the day we had a long lecture with some exercises in between. An exercise was to find out what kind of domains, protocols and devices there are:
+Domains:
+•	smart buildings and living
+•	smart healthcare
+•	smart environment
+•	smart city
+•	smart energy
+•	smart transport and mobility
+•	smart manufacturing and retail
+•	smart agriculture.
+
+Protocols:
+•	Message Queuing Telemetry Transport (MQTT)
+•	ZigBee.
+•	Bluetooth.
+•	Extensible Messaging and Presence Protocol (XMPP)
+•	Data-Distribution Service (DDS)
+•	Advanced Message Queuing Protocol (AMQP)
+•	Lightweight M2M (LwM2M)
+•	HTTP
+
+Devices:
+•	“Smart” Home Devices.
+•	Industrial Sensors.
+•	Smart Automobiles.
+•	Smart Cameras.
+•	Manufacturing Robots.
+•	Healthcare/Fitness Devices.
+
+We also watched some videos. The answers to the questions that were about these videos are written below:
+Like a Bosch video:
+I see some problems with that it may be unnecessary to have some smart things in the video. I also see that there are a lot of opportunities for danger. A self driving car is proven to not fully deserve the trust. An oven you can turn on when you are not at home is a fire hazard. Etc.
+
+Second video:
+We try to smartify everything, we put IoT in everything.
+Security in IoT easy?
+
+Third video:
+Why esp8266? 
+Programmability and price.
+You can use a lot of different programming styles for it.
+You can also add a lot to it if you want. Like buttons.
+It has power regulation itself.
+It is very affordable.
+
+What is personally inspiring for you?
+A very small device that can do amazing things for it sizes. Size does not matter apparently!
+
+What is the connection to coffee?
+ESP stands for Espresso.
+Starting with the hardware today. I received the package from Johanna so that I can work on my own in my room. I downloaded the CH340 driver and Arduino and installed the esp8266 package on it. The problem I had was that my Arduino is in Dutch and that the tutorials are in English. But after figuring some words out it was fine. I have Arduino now in English so I can search things more easy on the internet.
+During the exercises I had a couple of problems, I wanted to see the number of lines because I could not follow the teacher that easily, I forgot to update the code and I got a weird output from that and I had some network problems. 
+The network problems were easily solved by making a hotspot on my laptop and put the sensor on the hotspot.
+Why is off = on and on = off? Hardware reasons, not our fault.
